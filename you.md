@@ -1,6 +1,6 @@
 #The Guide
 
-###"You. Me? Yes, *You!*"
+##"You. Me? Yes, *You!*"
 ---
 > "I'm here! What now?"
 
@@ -20,8 +20,14 @@ You as an IBM Designer, as a designer, and as an individual. What you choose to 
 
 What follows is a free-flowing progression of the core values of an IBM Designer—take a gander, let it simmer, and jump into the action… even if you don't think you're completely ready.
 
-###Core Values of an IBM Designer
+##Core Values of an IBM Designer
 ---
+######VULNERABILITY
+`Fail early, learn fast`
+
+######CURIOSITY
+`Ask often`
+
 ######VULNERABILITY
 `Fail early, learn fast`
 
